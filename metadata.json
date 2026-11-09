@@ -1,0 +1,6 @@
+{
+  "name": "ScholarPulse – AI Research Assistant",
+  "description": "An academic research assistant helping students and researchers plan, understand, and organize scholarly research with topic hubs, question formulation, Boolean search builders, paper summarization, research gap analysis, and manuscript outlines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
